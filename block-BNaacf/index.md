@@ -12,3 +12,4 @@ Q. Add address Schema with fields
 3. state -> String
 4. pin -> number
 5. user -> ObjectId of User
+ 
